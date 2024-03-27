@@ -20,7 +20,7 @@ Gem::Specification.new do |spec|
 
   spec.required_ruby_version = ">= 2.7.7"
 
-  spec.add_dependency "activesupport", ">= 4.0", "< 7.1"
+  spec.add_dependency "activesupport", ">= 4.0", "< 8"
   spec.add_dependency "awesome_print"
 
   spec.add_development_dependency "bump", "~> 0.9.0"
